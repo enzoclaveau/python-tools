@@ -2,8 +2,8 @@
 Some easy reusable code to automate stuff
 
 
-## Delete all the __pycache__ folders from project
-In case you want to delete all the generated __pychache__ folders from your local project run this file:
+## Delete all the \_\_pycache\_\_ folders from project
+In case you want to delete all the generated \_\_pychache\_\_ folders from your local project run this file:
 
     python delete_pycache.py [folder_name]
 
